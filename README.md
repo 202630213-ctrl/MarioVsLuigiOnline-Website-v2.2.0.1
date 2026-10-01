@@ -1,4 +1,5 @@
 People who wants to play MvLO in school or something..
 btw I'm korean.
-I'll gonna update the game when update releases
+I'll gonna update the game when update releases.
 This is game itself on website: https://202630213-ctrl.github.io/MarioVsLuigiOnline-Website-v2.2.0.1
+or you can just download index.html and open it.
